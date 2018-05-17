@@ -17,11 +17,12 @@ class Solution:
         for i in range(1, len(nums)):
             if nums[i] == nums[maxIdx]:
                 count += 1
-            else:
-                count -= 1
-            if count == 0:
+            elif count == 0:
                 maxIdx = i
                 count = 1
+            else:
+                count -= 1
+
         # verify the majority element we found
         occurrence = 0
         for num in nums:
