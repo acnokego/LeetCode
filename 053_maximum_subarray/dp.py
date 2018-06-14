@@ -8,6 +8,10 @@ class Solution:
         Complexity: O(n)
         Space: O(n)
         let dp[i] be the maximum subarray ending at the ith index.
+
+        If we use Divide and Conquer the complexity becomes(nlogn),
+        logn for binary search, n for the maximum subarray cross the left and right
+
         """
         dp = [0]*len(nums)
         dp[0] = nums[0]
