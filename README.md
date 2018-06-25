@@ -6,7 +6,7 @@ Started from May 16.
 
 - **Dynamic Programming**: 053, 139, 198, 322,
 - **Hash Table**: 001, 003, 169,
-- **Two Pointers**: 019, 141, 287
+- **Two Pointers**: 019, 141, 142, 287
 - **Stack**: 020,
 - **Binary Search**: 034, 
 - **DFS BFS Search**: 101, 200,
