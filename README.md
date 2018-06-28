@@ -8,5 +8,5 @@ Started from May 16.
 - **Hash Table**: 001, 003, 169,
 - **Two Pointers**: 011, 019, 141, 142, 287
 - **Stack**: 020,
-- **Binary Search**: 034, 300 
+- **Binary Search**: 034, 240, 300 
 - **DFS BFS Search**: 101, 200,
