@@ -7,6 +7,6 @@ Started from May 16.
 - **Dynamic Programming**: 053, 061, 070, 139, 198, 300, 322,
 - **Hash Table**: 001, 003, 169,
 - **Two Pointers**: 011, 019, 141, 142, 287
-- **Stack**: 020,
+- **Stack**: 020, 091
 - **Binary Search**: 034, 240, 300 
-- **DFS BFS Search**: 101, 200,
+- **DFS BFS Search**: 091, 101, 200,
