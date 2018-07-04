@@ -10,6 +10,6 @@ Started from May 16.
 - **Two Pointers**: 011, 019, 075, 141, 142, 202, 287
 - **Stack**: 020, 091
 - **Binary Search**: 034, 240, 300 
-- **DFS BFS Search**: 091, 101, 200,
+- **DFS BFS Search**: 091, 101, 104, 200,
 - **Bit Operations**: 136
 - **Sort**: 049, 347
