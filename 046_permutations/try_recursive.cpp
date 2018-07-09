@@ -1,7 +1,7 @@
 class Solution {
   /*
    * Complexity: O(n!)
-   * Space: O(n!)
+   * Space: O(n) stack
    */
 public:
     vector<vector<int>> permute(vector<int>& nums) {
