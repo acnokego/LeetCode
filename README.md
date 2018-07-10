@@ -9,7 +9,8 @@ Started from May 16.
 - **Hash Table**: 001, 003, 136, 169, 242, 347, 380
 - **Two Pointers**: 011, 019, 075, 141, 142, 202, 287
 - **Stack**: 020, 091
-- **Binary Search**: 034, 240, 300 
+- **Heap**: 378
+- **Binary Search**: 034, 240, 300, 378
 - **DFS BFS Search**: 091, 101, 104, 200,
 - **Bit Operations**: 078, 136
 - **Sort**: 049, 148, 347
