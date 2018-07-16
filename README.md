@@ -12,6 +12,6 @@ Started from May 16.
 - **Heap**: 378
 - **Binary Search**: 034, 240, 300, 378
 - **DFS BFS Search**: 091, 101, 102, 104, 200, 230
-- **Bit Operations**: 078, 136
+- **Bit Operations**: 078, 136, 289
 - **Sort**: 049, 148, 215, 347
 - **Recursive**: 022, 046, 078, 108, 131, 230
