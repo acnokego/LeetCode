@@ -1,7 +1,7 @@
 class Solution {
   /*
    * Complexity: O(n^2)
-   * Space: O(1)
+   * Space: (auxiliary space: O(1))
    * reference: 
    * https://leetcode.com/problems/3sum/discuss/7402/Share-my-AC-C++-solution-around-50ms-O(N*N)-with-explanation-and-comments
    */

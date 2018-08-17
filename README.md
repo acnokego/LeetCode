@@ -4,6 +4,8 @@ This is a repository of my solutions to Leetcode problems.
 All of them are implemented by Python3.6 and C++.  
 Started from May 16.
 
+There are time complexities and space complexities(auxiliary space) estimated for each problem.
+
 - **Dynamic Programming**: 005, 053, 055, 061, 070, 139, 152, 198, 279, 300, 322, 329
 - **Greedy**: 055
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 347, 380, 387, 395
