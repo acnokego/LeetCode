@@ -1,6 +1,6 @@
 class Solution {
   /*
-   * Complexity: O(#candidates^target)
+   * Complexity: O(2^#candidates*target)
    * Space: O(target)
    */
 public:
