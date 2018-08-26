@@ -17,7 +17,9 @@ public:
         while(separate < l && occ[int(s[separate])] >= k) ++separate;
         if(separate == l) return l;
         int left = longestSubstring(s.substr(0, separate), k);
-        int right = longestSubstring(s.substr(separate + 1), k);
+        // add this line to remove all consecutive separating characters
+        while(separate < l && occ[int(s[separate])] < k) ++separate;
+        int right = (separate < l ? longestSubstring(s.substr(separate), k) : 0);
         return max(left, right);      
     }
 };
