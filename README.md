@@ -8,7 +8,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 
 - **Dynamic Programming**: 005, 053, 055, 061, 070, 072, 139, 140, 152, 198, 279, 300, 322, 329, 416
 - **Greedy**: 055
-- **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 347, 380, 387, 395
+- **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 395
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
 - **Stack**: 020, 042, 091, 227, 341
 - **Heap**: 179, 378
