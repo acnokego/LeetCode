@@ -13,7 +13,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
                   395
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
 - **Stack**: 020, 042, 091, 173, 227, 341
-- **Heap**: 023, 179, 378
+- **Heap**: 023, 179, 373, 378
 - **Binary Search**: 004, 033, 034, 074, 162, 240, 300, 378
 - **DFS BFS Search**: 079, 091, 101, 102, 103, 104, 114, 116, 173, 200, 207, 210, 230
                 , 236, 297, 329, 399, 417, 687
