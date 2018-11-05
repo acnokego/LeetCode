@@ -10,7 +10,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
                 , 300, 322, 329, 416
 - **Greedy**: 055
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
-                  395
+                  395, 409
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
 - **Stack**: 020, 042, 091, 173, 227, 341, 503
 - **Heap**: 023, 179, 373, 378
