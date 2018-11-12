@@ -20,4 +20,4 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 729
 - **Recursive**: 022, 039, 040, 046, 047, 078, 090, 098, 105, 108, 131, 140, 207
-                , 230, 236, 394, 395, 406, 417, 698 
+                , 230, 236, 394, 395, 406, 417, 501, 698 
