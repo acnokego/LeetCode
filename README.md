@@ -14,11 +14,12 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
 - **Stack**: 020, 042, 091, 173, 227, 341, 402, 503
 - **Heap**: 023, 179, 373, 378
-- **Binary Search**: (use (end-start)/2 + start to prevent overflow) 
-    004, 033, 034, 074, 162, 240, 300, 374, 378, 475, 658
+- **Binary Search**: 004, 033, 034, 074, 162, 240, 300, 374, 378, 475, 658
+  1. use (end-start)/2 + start to prevent overflow.
 - **DFS BFS Search**: 079, 091, 101, 102, 103, 104, 114, 116, 133, 173, 200, 207, 210, 230
                 , 236, 297, 310, 329, 399, 417, 530, 542, 652, 687
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
+  1. use bucket sort to reduce complexity.
 - **Recursive**: 022, 039, 040, 046, 047, 078, 090, 098, 105, 108, 131, 140, 207
                 , 230, 236, 377, 394, 395, 406, 417, 501, 698 
