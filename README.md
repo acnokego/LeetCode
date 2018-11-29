@@ -17,7 +17,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Binary Search**: 004, 033, 034, 074, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
 - **DFS BFS Search**: 079, 091, 101, 102, 103, 104, 114, 116, 133, 173, 200, 207, 210, 230
-                , 236, 297, 310, 329, 399, 417, 530, 542, 652, 687
+                , 236, 257, 297, 310, 329, 399, 417, 530, 542, 652, 687
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
   1. use bucket sort to reduce complexity.
