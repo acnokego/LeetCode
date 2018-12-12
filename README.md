@@ -7,7 +7,7 @@ Started from May 16.
 There are time complexities and space complexities(auxiliary space) estimated for each problem.
 
 - **Dynamic Programming**: 005, 053, 055, 061, 070, 072, 139, 140, 152, 198, 279
-                , 300, 309, 322, 329, 368, 377, 416, 474, 583
+                , 300, 309, 322, 329, 368, 377, 416, 474, 494, 583
 - **Greedy**: 055
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
                   395, 409, 451, 560, 657, 684
