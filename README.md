@@ -7,7 +7,10 @@ Started from May 16.
 There are time complexities and space complexities(auxiliary space) estimated for each problem.
 
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 097, 115, 120
-                139, 140, 152, 198, 279, 300, 309, 322, 329, 368, 377, 416, 474, 494, 583
+                139, 140, 152, 198, 213, 279, 300, 309, 322, 329, 368, 377, 416, 474, 494, 583
+  1. The optimal value I can have while doing action at ith index, need to find
+     the optimal for all ith index value in the end.
+  2. The optimal value I can have at ith index (do action or not to do)
 - **Greedy**: 055
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
                   395, 409, 451, 560, 657, 684
