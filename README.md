@@ -6,7 +6,7 @@ Started from May 16.
 
 There are time complexities and space complexities(auxiliary space) estimated for each problem.
 
-- **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 097, 115, 120
+- **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 097, 115, 120, 124
                 139, 140, 152, 198, 213, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368, 
                 377, 416, 474, 494, 583
   1. The optimal value I can have while doing action at ith index, need to find
@@ -21,7 +21,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Binary Search**: 004, 033, 034, 074, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
-                113, 114, 116, 117, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
+                113, 114, 116, 117, 124, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 652, 687
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
