@@ -16,9 +16,10 @@ public:
         }
         
         // Generally, if the target doesn't exist, we would possibly have
-        // nums[start] < target < [end] or target < nums[start] or target > nums[end]
-        // (start , end) are the value before start == end.
-        // start == end
+        // nums[start] < target < [end] -> nums[start] < target
+        // or target < nums[start] or target > nums[end] -> target > nums[start]
+        
+        // the final value: nums[start]
         if(nums[start] < target) return start + 1;
         else return start;
         

@@ -20,6 +20,13 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Heap**: 023, 179, 373, 378
 - **Binary Search**: 004, 033, 034, 035, 074, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
+  2. while(start < end){... start = mid + 1 ... end = mid - 1} => 
+     for each iteration:
+     - If the target exist it would be in the [start, end]
+     - else the nums[start] would be the either the value smaller/bigger than
+       the target and the target should be placed next to it. 
+     In the end: when start = end - 1, the mid must be the start. 
+
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
                 113, 114, 116, 117, 124, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 652, 687
