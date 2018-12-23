@@ -18,7 +18,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
 - **Stack**: 020, 042, 084, 085, 091, 144, 173, 227, 341, 402, 503
 - **Heap**: 023, 179, 373, 378
-- **Binary Search**: 004, 033, 034, 074, 162, 240, 300, 374, 378, 475, 658
+- **Binary Search**: 004, 033, 034, 035, 074, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
                 113, 114, 116, 117, 124, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
