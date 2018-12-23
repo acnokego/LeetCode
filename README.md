@@ -23,10 +23,13 @@ There are time complexities and space complexities(auxiliary space) estimated fo
   2. while(start < end){... start = mid + 1 ... end = mid - 1} => 
      for each iteration:
      - If the target exist it would be in the [start, end]
-     - else the nums[start] would be the either the value smaller/bigger than
-       the target and the target should be placed next to it. 
-     In the end: when start = end - 1, the mid must be the start. 
-
+     - else, when start == end -1, the nums[start] would be either the biggest value 
+       smaller (or bigger if all elements is bigger than the target) than the 
+       target and the target should be placed next to it. 
+     - In the end: when start = end - 1, the mid must be the start. 
+  3. For each iterations in while, carefully define "mid" or "mid +- 1"
+     according to the requirements of problems. It's necessary to check the case
+     when (start == end - 1).
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
                 113, 114, 116, 117, 124, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 652, 687
