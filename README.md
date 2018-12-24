@@ -7,7 +7,7 @@ Started from May 16.
 There are time complexities and space complexities(auxiliary space) estimated for each problem.
 
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 097, 115, 120, 124
-                139, 140, 152, 198, 213, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368, 
+                139, 140, 152, 198, 213, 221, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368, 
                 377, 416, 474, 494, 583
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
