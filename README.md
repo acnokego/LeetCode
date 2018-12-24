@@ -31,7 +31,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
      according to the requirements of problems. It's necessary to check the case
      when (start == end - 1).
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
-                113, 114, 116, 117, 124, 133, 173, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
+                113, 114, 116, 117, 124, 133, 173, 199, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 652, 687
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
