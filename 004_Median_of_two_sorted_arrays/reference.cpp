@@ -21,7 +21,9 @@ public:
         // j = (m - 2i + n)/2 = (m+n)/2 - i (n > m or j would < 0)
         // if m+n is odd the left part would have one more element
         // so we could return the max_left directly when m+n is odd
-        int i_min = 0, i_max = m, half_len = (m + n + 1) / 2;
+        int i_min = 0, i_max = m, half_len = (m + n + 1) / 2; // m + n + 1 / 2 if it is even it would ignore 1.
+
+        // binary search
         while(i_min <= i_max){
             int i = (i_min + i_max) / 2;
             int j = half_len - i;
