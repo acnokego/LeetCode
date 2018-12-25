@@ -16,7 +16,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
                   395, 409, 451, 560, 657, 684
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 287
-- **Stack**: 020, 042, 084, 085, 091, 144, 173, 227, 341, 402, 503
+- **Stack**: 020, 042, 084, 085, 091, 144, 145, 173, 227, 341, 402, 503
 - **Heap**: 023, 179, 373, 378
 - **Binary Search**: 004, 033, 034, 035, 074, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
@@ -31,7 +31,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
      according to the requirements of problems. It's necessary to check the case
      when (start == end - 1).
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 110, 111, 112,
-                113, 114, 116, 117, 124, 133, 173, 199, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
+                113, 114, 116, 117, 124, 133, 145, 173, 199, 200, 207, 210, 230, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 652, 687
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
