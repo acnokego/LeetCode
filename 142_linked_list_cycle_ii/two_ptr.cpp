@@ -10,6 +10,15 @@
  * Complexity: O(n)
  * Space: O(1)
  * the same method as 287
+ *
+ * For the first meeting points, we have 2x - x = n*l (x: meeting position, l: length of
+ * the cycle).
+ * Let's say the position of entry point is E. THe distance between the entry
+ * point and the meeting point is m. We can have E = x - m = n*l - m = (n - 1)*l
+ * + (l - m). We can then have the entry points by having the meeting
+ * points between point starting from x and point starting from the start of the
+ * list.
+ 
  */
 class Solution {
 public:
