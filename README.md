@@ -37,7 +37,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
   1. use bucket sort to reduce complexity.
 - **Recursive**: 022, 039, 040, 046, 047, 051, 078, 090, 095, 098, 099, 100, 105, 107, 
-                108, 110, 111, 112, 113, 131, 140, 207, 230, 236, 377, 394, 395, 406, 
+                108, 110, 111, 112, 113, 131, 140, 207, 210, 230, 236, 377, 394, 395, 406, 
                 417, 501, 526, 698, 779 
   1. BST, for subtrees, try to utilize their range of values. (left subtrees must
      be smaller than root...)
