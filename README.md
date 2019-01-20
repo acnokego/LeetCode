@@ -29,7 +29,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
      - In the end: when start = end - 1, the mid must be the start. 
   3. For each iterations in while, carefully define "mid" or "mid +- 1"
      according to the requirements of problems. It's necessary to check the case
-     when (start == end - 1).
+     when (start == end - 1). (when we only move start = mid in each iteration)
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 109, 110, 111, 112,
                 113, 114, 116, 117, 124, 129, 130, 133, 145, 173, 199, 200, 207, 210, 230, 235, 236, 257, 297, 310, 329, 
                 399, 417, 530, 542, 547, 652, 687
