@@ -8,7 +8,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 096, 097, 115, 120, 123, 124
                 139, 140, 152, 198, 213, 221, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368,
-                376, 377, 392, 413, 416, 474, 486, 494, 516, 583
+                376, 377, 392, 413, 416, 467, 474, 486, 494, 516, 583
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
   2. The optimal value I can have at ith index (do action or not to do)
