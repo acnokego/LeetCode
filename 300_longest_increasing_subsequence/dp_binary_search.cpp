@@ -2,20 +2,20 @@ class Solution {
 /*
  * Complexity: O(nlgn)
  * Space: O(1) using the original nums array
- *  AMAZING SOLUTIONS!!!
+ *  AMAZING SOLUTION!!!
  *
- *  do a single pass through nums, and as I look at each element:
+ *  do a single pass through nums as we check each elements:
  *  - The length of S will be equal to the length of the longest subsequence 
  *  I've found to that point.
  *  - The last element of S will be the last element of that subsequence. 
  *  (However, the earlier elements may no longer be part of that sequence -- 
  *  S is not actually the subsequence itself.)
- *  At the end, the length of S will be our solution.
+ *  At the end, the length of S will be the solution.
  *
  *
  *  S will be sorted at all times. Each new element is inserted into S, 
  *  replacing the smallest element in S that is not smaller than it 
- *  (which we can find with a binary search). If that element is larger than 
+ *  (which we can find using binary search). If that element is larger than 
  *  the last element of S, then we extend S by one -- maintaining both properties.
  */
 public:

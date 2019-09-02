@@ -11,7 +11,7 @@
  * Space: O(1)
  * the same method as 287
  * The distance between the starting point and the entry point is L1
- * The distance between the meeting point and the entry point is L2
+ * The distance between the entry point and meeting point is L2
  * The cycle length is C
  * For slow pointer: L1 + L2 + n1*C
  * For fast pointer: L1 + L2 + n2*C
