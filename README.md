@@ -32,12 +32,12 @@ There are time complexities and space complexities(auxiliary space) estimated fo
      when (start == end - 1). (when we only move start = mid in each iteration)
 - **DFS BFS Search**: 079, 091, 099, 100, 101, 102, 103, 104, 107, 109, 110, 111, 112,
                 113, 114, 116, 117, 124, 129, 130, 133, 145, 173, 199, 200, 207, 210, 230, 235, 236, 257, 297, 310, 329, 
-                399, 417, 437, 530, 542, 547, 652, 687, 787, 797
+                399, 417, 437, 530, 542, 547, 652, 687, 787, 797, 841
 - **Bit Operations**: 078, 136, 190, 231, 289, 318, 421
 - **Sort**: 015, 049, 056, 148, 179, 215, 274, 324, 347, 406, 451, 729
   1. use bucket sort to reduce complexity.
 - **Recursive**: 022, 039, 040, 046, 047, 051, 077, 078, 090, 095, 098, 099, 100, 105, 107, 106 
                 108, 109, 110, 111, 112, 113, 129, 131, 140, 207, 210, 222, 226, 230, 235, 236, 337, 377, 394, 395, 404, 406, 
-                417, 437, 501, 526, 698, 779, 797, 814, 894
+                417, 437, 501, 526, 698, 779, 797, 814, 841, 894
   1. BST, for subtrees, try to utilize their range of values. (left subtrees must
      be smaller than root...)
