@@ -8,7 +8,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 096, 097, 115, 120, 123, 124
                 139, 140, 152, 198, 213, 221, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368,
-                376, 377, 392, 413, 416, 467, 474, 486, 494, 516, 583
+                376, 377, 392, 413, 416, 467, 474, 486, 494, 516, 583, 931
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
   2. The optimal value I can have at ith index (do action or not to do)
@@ -38,6 +38,6 @@ There are time complexities and space complexities(auxiliary space) estimated fo
   1. use bucket sort to reduce complexity.
 - **Recursive**: 022, 039, 040, 046, 047, 051, 077, 078, 090, 095, 098, 099, 100, 105, 107, 106 
                 108, 109, 110, 111, 112, 113, 129, 131, 140, 207, 210, 222, 226, 230, 235, 236, 337, 377, 394, 395, 404, 406, 
-                417, 437, 501, 526, 698, 779, 797, 814, 841, 894, 951
+                417, 437, 501, 526, 698, 779, 797, 814, 841, 894, 931, 951
   1. BST, for subtrees, try to utilize their range of values. (left subtrees must
      be smaller than root...)
