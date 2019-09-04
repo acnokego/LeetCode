@@ -16,7 +16,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
                   395, 409, 451, 560, 657, 684
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 209, 287, 986
-- **Stack**: 020, 042, 084, 085, 091, 144, 145, 173, 227, 341, 402, 503
+- **Stack**: 020, 042, 084, 085, 091, 144, 145, 173, 227, 341, 402, 503, 946
 - **Heap**: 023, 179, 373, 378
 - **Binary Search**: 004, 033, 034, 035, 074, 153, 162, 240, 300, 374, 378, 475, 658
   1. use (end-start)/2 + start to prevent overflow.
