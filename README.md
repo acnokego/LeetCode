@@ -13,7 +13,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
   2. The optimal value I can have at ith index (do action or not to do)
-- **Greedy**: 055, 646, 765
+- **Greedy**: 055, 435, 646, 765
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 345, 347, 380, 387, 389, 
                   395, 409, 451, 508, 554, 560, 657, 684, 692, 846
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 209, 287, 881, 986
