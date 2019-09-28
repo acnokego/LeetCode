@@ -8,7 +8,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 096, 097, 115, 120, 123, 124
                 139, 140, 152, 198, 213, 221, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368,
-                376, 377, 392, 413, 416, 467, 474, 486, 494, 516, 518, 583, 646, 714, 718, 740, 813, 873, 931,
+                376, 377, 392, 413, 416, 467, 474, 486, 494, 516, 518, 583, 646, 673, 714, 718, 740, 813, 873, 931,
                 983, 1027, 1035, 1143
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
@@ -19,7 +19,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Two Pointers**: 011, 019, 042, 075, 141, 142, 160, 202, 209, 287, 881, 986
 - **Stack**: 020, 042, 084, 085, 091, 144, 145, 173, 227, 341, 402, 503, 946
 - **Heap**: 023, 179, 373, 378, 692
-- **Binary Search**: 004, 033, 034, 035, 074, 153, 162, 240, 300, 374, 378, 475, 540, 658, 792
+- **Binary Search**: 004, 033, 034, 035, 074, 153, 162, 240, 300, 374, 378, 410, 475, 540, 658, 792
   1. use (end-start)/2 + start to prevent overflow.
   2. while(start < end){... start = mid + 1 ... end = mid - 1} => 
      for each iteration:
