@@ -9,11 +9,11 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Dynamic Programming**: 005, 032, 053, 055, 061, 063, 064, 070, 072, 096, 097, 115, 120, 123, 124
                 139, 140, 152, 198, 213, 221, 264, 279, 300, 303, 304, 309, 322, 329, 338, 343, 368,
                 376, 377, 392, 413, 416, 467, 474, 486, 494, 514, 516, 518, 583, 646, 673, 714, 718, 740, 813, 873, 931,
-                983, 1027, 1035, 1143, 1155
+                983, 1024, 1027, 1035, 1143, 1155
   1. The optimal value I can have while doing action at ith index, need to find
      the optimal for all ith index value in the end.
   2. The optimal value I can have at ith index (do action or not to do)
-- **Greedy**: 055, 435, 646, 765
+- **Greedy**: 055, 435, 646, 765, 1024
 - **Hash Table**: 001, 003, 128, 136, 138, 169, 242, 299, 345, 347, 380, 387, 389, 
                   395, 409, 451, 508, 554, 560, 657, 684, 692, 846
 - **Multiset**: 480,
