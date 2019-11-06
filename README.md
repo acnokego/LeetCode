@@ -21,7 +21,7 @@ There are time complexities and space complexities(auxiliary space) estimated fo
 - **Two Pointers**: 011, 019, 042, 075, 076, 141, 142, 160, 202, 209, 287, 881, 986
 - **Stack**: 020, 042, 084, 085, 091, 144, 145, 150, 173, 227, 341, 402, 503, 735, 946
 - **Heap**: 023, 179, 373, 378, 632, 692, 855
-- **Binary Search**: 004, 033, 034, 035, 074, 153, 162, 240, 300, 374, 378, 410, 475, 540, 658, 792, 852, 973, 975
+- **Binary Search**: 004, 033, 034, 035, 074, 081, 153, 162, 240, 300, 374, 378, 410, 475, 540, 658, 792, 852, 973, 975
   1. use (end-start)/2 + start to prevent overflow.
   2. while(start < end){... start = mid + 1 ... end = mid - 1} => 
      for each iteration:
